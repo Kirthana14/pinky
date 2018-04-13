@@ -1,4 +1,6 @@
 FROM node:latest
+ENV http_proxy http://10.138.77.10:3128
+ENV https_proxy http://10.138.77.10:3128
 
 # set working directory
 RUN mkdir /usr/src/app
