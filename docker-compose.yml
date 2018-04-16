@@ -102,3 +102,4 @@ services:
     links:
       - users-service
       - movies-service
+
