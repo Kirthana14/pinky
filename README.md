@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Developing Microservices - Node, React, and Docker
+=======
+#Developing Microservices - Node, React, and Docker nnnn
+>>>>>>> ff99d20bf7e0a3907747faf2c334b84156e814cc
 
 [![Build Status](https://travis-ci.org/mjhea0/microservice-movies.svg?branch=master)](https://travis-ci.org/mjhea0/microservice-movies)
 [![CircleCI](https://circleci.com/gh/mjhea0/microservice-movies.svg?style=svg)](https://circleci.com/gh/mjhea0/microservice-movies)
