@@ -28,7 +28,7 @@ Check out the [blog post](http://mherman.org/blog/2017/05/11/developing-microser
 
 ## Want to use this project?
 
-### Setup
+### Setupp
 
 1. Fork/Clone this repo
 
