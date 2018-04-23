@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 ##Developing Microservices - Node, React, and Docker
+<<<<<<< HEAD
 =======
+=======
+========
+>>>>>>> a4b373b34acab1812ca0c62ff35a445ea74a9c3d
 #Developing Microservices - Node, React, and Docker nnnn
 >>>>>>> ff99d20bf7e0a3907747faf2c334b84156e814cc
 
@@ -49,7 +53,7 @@ Check out the [blog post](http://mherman.org/blog/2017/05/11/developing-microser
 $ export NODE_ENV=development
 ```
 
-#### Fire up the Containers
+####Fire up the Containers
 
 Build the images:
 
