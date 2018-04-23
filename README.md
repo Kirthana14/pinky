@@ -49,7 +49,7 @@ Check out the [blog post](http://mherman.org/blog/2017/05/11/developing-microser
 $ export NODE_ENV=development
 ```
 
-#### Fire up the Containers
+####Fire up the Containers
 
 Build the images:
 
