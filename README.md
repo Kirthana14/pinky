@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Developing Microservices - Node, React, and Docker
+##Developing Microservices - Node, React, and Docker
 ========
 #Developing Microservices - Node, React, and Docker nnnn
 >>>>>>> ff99d20bf7e0a3907747faf2c334b84156e814cc
